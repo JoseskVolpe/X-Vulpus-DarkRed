@@ -120,7 +120,7 @@
 }
 
 
-.titlebar .titlebutton.maximize:hover, 
+.titlebar .titlebutton.maximize:hover,
 .titlebar .titlebutton.maximize:active,
 .titlebar .titlebutton.maximize:checked  {
     color: transparent;
@@ -257,7 +257,7 @@
 .menuitem.check {
 	-gtk-icon-source: url("assets/checkbox-unchecked.png");
 	color: @theme_fg_color;
-	icon-shadow: none; 
+	icon-shadow: none;
 }
 .menuitem.check:active, .menuitem.check:checked {
 	-gtk-icon-source: url("assets/checkbox-checked.png");
@@ -270,13 +270,13 @@
 	color: @theme_selected_fg_color;
 }
 .menuitem.check:insensitive {
-	color: @insensitive_fg_color; 
+	color: @insensitive_fg_color;
 }
 
 .menuitem.radio {
 	-gtk-icon-source: url("assets/radio-unselected.png");
 	color: @theme_fg_color;
-	icon-shadow: none; 
+	icon-shadow: none;
 }
 .menuitem.radio:active, .menuitem.radio:checked {
 	-gtk-icon-source: url("assets/radio-selected.png");
@@ -288,6 +288,6 @@
 	color: @theme_selected_fg_color;
 }
 .menuitem.radio:insensitive {
-	color: @insensitive_fg_color; 
+	color: @insensitive_fg_color;
 }
 

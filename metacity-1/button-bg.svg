@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    width="20"
    height="20"
    viewBox="0 0 20 20"
    sodipodi:docname="button-bg.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    inkscape:export-filename="/home/elbullazul/Github/Mac-OS-X-Cheetah/metacity-1/apercu.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -50,11 +50,11 @@
        inkscape:collect="always"
        id="linearGradient1293">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:0.74019563"
          offset="0"
          id="stop1289" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.13725491"
+         style="stop-color:#ffffff;stop-opacity:0"
          offset="1"
          id="stop1291" />
     </linearGradient>
@@ -62,11 +62,11 @@
        inkscape:collect="always"
        id="linearGradient1275">
       <stop
-         style="stop-color:#aaaaaa;stop-opacity:0.64705884"
+         style="stop-color:#2d2d2d;stop-opacity:0.64705884"
          offset="0"
          id="stop1271" />
       <stop
-         style="stop-color:#575757;stop-opacity:1"
+         style="stop-color:#1b1b1b;stop-opacity:1"
          offset="1"
          id="stop1273" />
     </linearGradient>
@@ -76,15 +76,15 @@
       <stop
          id="stop1234"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0.9254902" />
+         style="stop-color:#1a1a1a;stop-opacity:0.9254902" />
       <stop
-         style="stop-color:#e8e8e8;stop-opacity:0.9254902"
+         style="stop-color:#676767;stop-opacity:0.9254902"
          offset="0.73885936"
          id="stop847" />
       <stop
          id="stop1236"
          offset="1"
-         style="stop-color:#bfbfbf;stop-opacity:0.9254902" />
+         style="stop-color:#6b6b6b;stop-opacity:0.9254902" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -139,20 +139,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1054"
      id="namedview4"
      showgrid="false"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="1.1809159"
-     inkscape:cy="9.6507899"
+     inkscape:zoom="31.999999"
+     inkscape:cx="6.0781253"
+     inkscape:cy="9.1562504"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="0">
     <sodipodi:guide
        position="10,22.308935"
        orientation="1,0"
@@ -183,7 +184,7 @@
      rx="6.3306456"
      ry="6.330646" />
   <path
-     style="fill:#808080;fill-opacity:1;stroke-width:0.89934212"
+     style="fill:#808080;fill-opacity:0.21264698;stroke-width:0.89934212"
      d="M 5.0815413,7.1271098 C 5.4455261,6.4101732 6.4558018,5.1137026 7.7134623,4.5375713 8.9446146,3.9735833 10.398794,3.9177478 11.72821,4.3782061 c 1.329413,0.4604583 2.534065,1.4372105 3.26616,2.938398 0.20568,0.4238057 0.289962,0.6751831 0.292277,0.7147873 C 14.562613,7.1224222 13.863724,6.3960498 13.286799,5.9529851 12.387345,5.2717645 11.308758,4.7631469 9.9958677,4.7353762 8.682981,4.7076055 7.4774314,5.2179754 6.4607121,6.1020562 5.8042758,6.7247845 5.3690562,7.1156743 4.7074832,8.0314787 4.6495409,8.003811 4.8593671,7.5647235 5.0815413,7.1271098 Z"
      id="path843-5"
      inkscape:connector-curvature="0"

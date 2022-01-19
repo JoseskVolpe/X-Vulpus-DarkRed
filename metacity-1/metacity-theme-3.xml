@@ -11,26 +11,26 @@
 
 <!-- meaningfull constants -->
 
-<constant name="C_title_focused" value="#000000" />
-<constant name="C_title_unfocused" value="#8c8c8c" />
+<constant name="C_title_focused" value="#fff" />
+<constant name="C_title_unfocused" value="#3C3C3C" />
 
-<constant name="C_wm_bg_focused" value="#a9a5ab" />
-<constant name="C_wm_bg_unfocused" value="#e2e2e2" />
-<constant name="C_wm_border" value="#a9a5ab" />
-<constant name="C_wm_border_unfocused" value="#e2e2e2" />
+<constant name="C_wm_bg_focused" value="#454341" />
+<constant name="C_wm_bg_unfocused" value="#1B1B1B" />
+<constant name="C_wm_border" value="#454341" />
+<constant name="C_wm_border_unfocused" value="#1B1B1B" />
 <constant name="C_wm_highlight" value="rgba(0,0,0,0)" />
 
 <!-- window button colors -->
 <!-- minimize, maximize, etc. -->
 <constant name="C_button_bg_focused" value="#4c4c4c" />
-<constant name="C_button_bg_unfocused" value="#cecece" />
+<constant name="C_button_bg_unfocused" value="#292929" />
 <constant name="C_button_bg_hover" value="#5e5e5e" />
 <constant name="C_button_bg_active" value="#3e3e3e" />
 
 <constant name="C_icon_bg_focused" value="#4c4c4c" />
-<constant name="C_icon_bg_unfocused" value="#cecece" />
-<constant name="C_icon_bg_hover" value="#ffffff" />
-<constant name="C_icon_bg_active" value="#ffffff" />
+<constant name="C_icon_bg_unfocused" value="#292929" />
+<constant name="C_icon_bg_hover" value="#000" />
+<constant name="C_icon_bg_active" value="#000" />
 
 <!-- geometries -->
 
@@ -153,8 +153,8 @@
 
 <draw_ops name="titlebar_focused">
 	<gradient type="vertical" x="0" y="0" width="width" height="height">
-    <color value="#c9c6cb"/>
-    <color value="#a9a5ab"/>
+    <color value="#454341"/>
+    <color value="#0c0c0c"/>
   </gradient>
 </draw_ops>
 
@@ -164,8 +164,8 @@
 
 <draw_ops name="titlebar_max">
 	<gradient type="vertical" x="0" y="0" width="width" height="height">
-    <color value="#c9c6cb"/>
-    <color value="#a9a5ab"/>
+    <color value="#454341"/>
+    <color value="#0c0c0c"/>
   </gradient>
 </draw_ops>
 
