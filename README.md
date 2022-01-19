@@ -3,9 +3,12 @@
 # OS X 10.5 'Leopard' Dark
 
 OS X Leopard dark mode theme based on Aqua elements that were abandoned in later OS X releases.
+
 **Please note :** This modification was made on and targeted to KDE Plasma, other desktop environments might work aswell, but there are some stuff remaining yet:
-[*] gnome-shell not currently modified
-[*] unity not currently modified
+
+* Gnome-shell not currently modified
+
+* Unity not currently modified
 If you find something weird or broken, please file a issue or make a pull request.
 
 ![os-x-leopard](./preview.png)
