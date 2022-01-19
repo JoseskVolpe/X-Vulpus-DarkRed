@@ -9,6 +9,7 @@ OS X Leopard dark mode theme based on Aqua elements that were abandoned in later
 * Gnome-shell not currently modified
 
 * Unity not currently modified
+
 If you find something weird or broken, please file a issue or make a pull request.
 
 ![os-x-leopard](./preview.png)
