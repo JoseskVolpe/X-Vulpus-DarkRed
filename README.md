@@ -1,8 +1,8 @@
 [![built-with-azurra-framework](https://github.com/Elbullazul/Azurra_framework/raw/assets/azurra_framework_smaller.png)](https://github.com/Elbullazul/Azurra_framework)
 
-# OS X 10.5 'Leopard' Dark
+# OS X 10.5 'Leopard' Dark Red
 
-OS X Leopard dark mode theme based on Aqua elements that were abandoned in later OS X releases.
+OS X Leopard dark mode red theme based on Aqua elements that were abandoned in later OS X releases.
 
 **Please note :** This modification was made on and targeted to KDE Plasma, other desktop environments might work aswell, but there are some stuff remaining yet:
 
