@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    viewBox="0 0 16 16"
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="checkbox-checked-hover.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="checkbox-focused.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -35,17 +35,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1042"
-     inkscape:window-height="714"
+     inkscape:window-width="1366"
+     inkscape:window-height="738"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="13.762237"
-     inkscape:cx="-1.7615642"
-     inkscape:cy="5.2536633"
-     inkscape:window-x="471"
-     inkscape:window-y="73"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:cx="-1.7802338"
+     inkscape:cy="5.2317076"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs4">
     <linearGradient
@@ -70,11 +71,11 @@
        inkscape:collect="always"
        id="linearGradient3053">
       <stop
-         style="stop-color:#4487da;stop-opacity:1"
+         style="stop-color:#1c4f8d;stop-opacity:1"
          offset="0"
          id="stop3055" />
       <stop
-         style="stop-color:#5090ff;stop-opacity:1"
+         style="stop-color:#0048c5;stop-opacity:1"
          offset="1"
          id="stop3057" />
     </linearGradient>
@@ -82,11 +83,11 @@
        inkscape:collect="always"
        id="linearGradient3046">
       <stop
-         style="stop-color:#559eff;stop-opacity:1"
+         style="stop-color:#0068f2;stop-opacity:1"
          offset="0"
          id="stop3049" />
       <stop
-         style="stop-color:#64adff;stop-opacity:1"
+         style="stop-color:#0065d7;stop-opacity:1"
          offset="1"
          id="stop3051" />
     </linearGradient>
@@ -342,6 +343,6 @@
        inkscape:connector-curvature="0"
        id="rect3828"
        d="m 355.86982,528.9293 c -0.25059,0.0469 -0.50014,0.20958 -0.65625,0.4375 l -4.03125,5.90625 -1.53125,-1.53125 c -0.39069,-0.39069 -1.01556,-0.39069 -1.40625,0 -0.39069,0.39069 -0.39069,1.01556 0,1.40625 l 2.21875,2.21875 0.15625,0.15625 c 0.0421,0.0416 0.0743,0.0903 0.125,0.125 0.0391,0.0268 0.0838,0.042 0.125,0.0625 0.0511,0.0252 0.10246,0.0466 0.15625,0.0625 0.0304,0.009 0.063,0.025 0.0937,0.0312 0.0197,0.004 0.0426,-0.003 0.0625,0 0.0844,0.0109 0.16557,0.0109 0.25,0 0.0844,-0.0109 0.16999,-0.0299 0.25,-0.0625 0.12559,-0.0497 0.24493,-0.1187 0.34375,-0.21875 0.0416,-0.0421 0.0903,-0.0743 0.125,-0.125 l 4.71875,-6.90625 c 0.31222,-0.45584 0.20584,-1.09402 -0.25,-1.40625 -0.22792,-0.15611 -0.49941,-0.20311 -0.75,-0.15625 z"
-       style="fill:#e9f1fc;fill-opacity:1;stroke:none" />
+       style="fill:#030b15;fill-opacity:1;stroke:none" />
   </g>
 </svg>
