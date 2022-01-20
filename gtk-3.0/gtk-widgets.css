@@ -247,7 +247,7 @@ GtkAssistant .sidebar {
 .button:hover:focus,
 .button:active:focus,
 .button:active:hover:focus {
-    background-image: linear-gradient(to bottom, #b6d2ed, #8ebbe8 35%, #63a1df 36%, #b9edff);
+    background-image: linear-gradient(to bottom, #6359ed, #564ec1 35%, #2729a7 36%, #7364c6);
     border-color: #07067b;
     border-left-color: shade(@theme_selected_bg_color, 1.15);
     border-right-color: shade(@theme_selected_bg_color, 1.15);
@@ -1523,14 +1523,14 @@ GtkProgressBar {
     border-top-color: #2b5dbe;
     background-color: @theme_selected_bg_color;
     background-image: linear-gradient(to right, transparent, alpha(black, 0.05), transparent),
-                      linear-gradient(to top, #b9edff, shade(@theme_selected_bg_color, 1.8) 40%, shade(@theme_selected_bg_color, 1.6) 60%, shade(@theme_selected_bg_color, 2.1) 80%);
+                      linear-gradient(to top, #7364c6, shade(@theme_selected_bg_color, 1.8) 40%, shade(@theme_selected_bg_color, 1.6) 60%, shade(@theme_selected_bg_color, 2.1) 80%);
     background-size: 16px 16px, auto;
 }
 
 .progressbar.vertical {
     border-left-color: #2b5dbe;
     background-image: linear-gradient(to top, transparent, alpha(black, 0.05), transparent),
-                      linear-gradient(to left, #b9edff, shade(@theme_selected_bg_color, 1.8) 40%, shade(@theme_selected_bg_color, 1.6) 60%, shade(@theme_selected_bg_color, 2.1) 80%);
+                      linear-gradient(to left, #7364c6, shade(@theme_selected_bg_color, 1.8) 40%, shade(@theme_selected_bg_color, 1.6) 60%, shade(@theme_selected_bg_color, 2.1) 80%);
 }
 
 .trough,
@@ -2390,7 +2390,7 @@ GtkColorButton.button {
     border-radius: 5px;
     padding: 1px 6px;
     border-color: shade(@theme_bg_color, 0.5);
-    background-image: linear-gradient(to bottom, #f6f6f6, #bbbbbb);
+    background-image: linear-gradient(to bottom, #151515, #070707);
     color: @titlebar_fg_color;
     box-shadow: none;
 }
@@ -2560,7 +2560,7 @@ GtkStatusbar .button:checked:backdrop,
     border-right-color: shade(@theme_bg_color, 0.75);
     border-left-color: shade(@theme_bg_color, 0.75);
     border-bottom-color: shade(@theme_bg_color, 0.65);
-    background-image: linear-gradient(to bottom, #f6f6f6, #bbbbbb);
+    background-image: linear-gradient(to bottom, #151515, #070707);
     background-color: shade(@theme_base_color, 0.95);
     color: @toolbar_fg_color;
 }
@@ -2575,7 +2575,7 @@ GtkStatusbar .button:checked:backdrop,
     border-right-color: shade(@theme_bg_color, 0.75);
     border-left-color: shade(@theme_bg_color, 0.75);
     border-bottom-color: shade(@theme_bg_color, 0.65);
-    background-image: linear-gradient(to bottom, #f6f6f6 20%, #bdbdbd 75%);
+    background-image: linear-gradient(to bottom, #151515 20%, #020202 75%);
     color: @toolbar_fg_color;
 }
 
@@ -3265,14 +3265,14 @@ GtkStatusbar .button:checked:backdrop,
 /* remove annoying bug of always rounding wrong child! (thanks Arc theme) */
 .linked:not(.vertical):not(.path-bar) > .button:active + .entry,
 .linked:not(.vertical):not(.path-bar) > .button:checked + .entry {
-  border-left-color: #5294e2; }
+  border-left-color: #0f0fb9; }
 
 .linked:not(.vertical):not(.path-bar) > .button + .button {
   border-left-style: none; }
 
 .linked:not(.vertical):not(.path-bar) > .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action):hover:not(:only-child),
 .linked:not(.vertical):not(.path-bar) > .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action):hover + .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action) {
-  box-shadow: inset 1px 0 #cfd6e6; }
+  box-shadow: inset 1px 0 #1d1e20; }
 
 .linked:not(.vertical):not(.path-bar) > .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action):first-child:hover,
 .linked:not(.vertical):not(.path-bar) > .button:active + .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action):hover,
