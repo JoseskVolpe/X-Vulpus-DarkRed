@@ -34,11 +34,11 @@
        inkscape:collect="always"
        id="linearGradient4136">
       <stop
-         style="stop-color:#1f00e0;stop-opacity:1"
+         style="stop-color:#e00000;stop-opacity:1"
          offset="0"
          id="stop4138" />
       <stop
-         style="stop-color:#633bf8;stop-opacity:1"
+         style="stop-color:#f83b3b;stop-opacity:1"
          offset="1"
          id="stop4140" />
     </linearGradient>
@@ -73,20 +73,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-width="1366"
+     inkscape:window-height="738"
      id="namedview3038"
      showgrid="false"
-     inkscape:zoom="26.280802"
-     inkscape:cx="9.7980266"
-     inkscape:cy="10.159507"
+     inkscape:zoom="13.140401"
+     inkscape:cx="1.7883777"
+     inkscape:cy="9.2082426"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3036"
      inkscape:pagecheckerboard="0" />
   <rect
-     style="fill:url(#linearGradient4142);fill-opacity:1;stroke:#0e50ed;stroke-opacity:1"
+     style="fill:url(#linearGradient4142);fill-opacity:1;stroke:#ed0e0e;stroke-opacity:1"
      id="rect4678"
      width="23.970919"
      height="23.758787"

@@ -247,8 +247,8 @@ GtkAssistant .sidebar {
 .button:hover:focus,
 .button:active:focus,
 .button:active:hover:focus {
-    background-image: linear-gradient(to bottom, #6359ed, #564ec1 35%, #2729a7 36%, #7364c6);
-    border-color: #07067b;
+    background-image: linear-gradient(to bottom, #ed4949, #c12828 35%, #9b1c1c 36%, #c64949);
+    border-color: #7b0000;
     border-left-color: shade(@theme_selected_bg_color, 1.15);
     border-right-color: shade(@theme_selected_bg_color, 1.15);
     border-bottom-color: shade(@theme_selected_bg_color, 1.3);
@@ -1520,17 +1520,17 @@ GtkProgressBar {
     border-width: 1px;
     border-style: solid;
     border-color: transparent;
-    border-top-color: #2b5dbe;
+    border-top-color: #be1d1d;
     background-color: @theme_selected_bg_color;
     background-image: linear-gradient(to right, transparent, alpha(black, 0.05), transparent),
-                      linear-gradient(to top, #7364c6, shade(@theme_selected_bg_color, 1.8) 40%, shade(@theme_selected_bg_color, 1.6) 60%, shade(@theme_selected_bg_color, 2.1) 80%);
+                      linear-gradient(to top, #c64f4f, shade(@theme_selected_bg_color, 1.8) 40%, shade(@theme_selected_bg_color, 1.6) 60%, shade(@theme_selected_bg_color, 2.1) 80%);
     background-size: 16px 16px, auto;
 }
 
 .progressbar.vertical {
-    border-left-color: #2b5dbe;
+    border-left-color: #be1d1d;
     background-image: linear-gradient(to top, transparent, alpha(black, 0.05), transparent),
-                      linear-gradient(to left, #7364c6, shade(@theme_selected_bg_color, 1.8) 40%, shade(@theme_selected_bg_color, 1.6) 60%, shade(@theme_selected_bg_color, 2.1) 80%);
+                      linear-gradient(to left, #c64f4f, shade(@theme_selected_bg_color, 1.8) 40%, shade(@theme_selected_bg_color, 1.6) 60%, shade(@theme_selected_bg_color, 2.1) 80%);
 }
 
 .trough,
@@ -3265,14 +3265,14 @@ GtkStatusbar .button:checked:backdrop,
 /* remove annoying bug of always rounding wrong child! (thanks Arc theme) */
 .linked:not(.vertical):not(.path-bar) > .button:active + .entry,
 .linked:not(.vertical):not(.path-bar) > .button:checked + .entry {
-  border-left-color: #0f0fb9; }
+  border-left-color: #b90909; }
 
 .linked:not(.vertical):not(.path-bar) > .button + .button {
   border-left-style: none; }
 
 .linked:not(.vertical):not(.path-bar) > .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action):hover:not(:only-child),
 .linked:not(.vertical):not(.path-bar) > .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action):hover + .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action) {
-  box-shadow: inset 1px 0 #1d1e20; }
+  box-shadow: inset 1px 0 #201d1d; }
 
 .linked:not(.vertical):not(.path-bar) > .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action):first-child:hover,
 .linked:not(.vertical):not(.path-bar) > .button:active + .button:not(:checked):not(:active):not(.suggested-action):not(.destructive-action):hover,

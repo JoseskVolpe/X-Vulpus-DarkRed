@@ -78,17 +78,17 @@ style "default"
 	bg[NORMAL]       = "#161616"  #0f0f0f#333333
 	bg[ACTIVE]       = "#5c5c5c"
 	bg[PRELIGHT]     = "#FFFFFF"
-	bg[SELECTED]     = "#4285c7"
+	bg[SELECTED]     = "#b10f0f"
 	bg[INSENSITIVE]  = "#0f0f0f"
 
 	# Remove comment if you want striped background
 	#bg_pixmap[NORMAL] = "Shadows/window-bg.png"
 
 	base[NORMAL]     = "#000000"
-	base[ACTIVE]     = "#8b9dc1" #d4d4d4 #e4ebf5
+	base[ACTIVE]     = "#c12a2a" #d4d4d4 #e4ebf5
 	base[PRELIGHT]   = "#FFFFFF"
 	base[INSENSITIVE]= "#0f0f0f"
-	base[SELECTED]   = "#358cdb"
+	base[SELECTED]   = "#cc0606"
 
 	text[INSENSITIVE]= "#747474"
 	text[SELECTED]   = "#ffffff"
@@ -104,14 +104,14 @@ style "default"
 	NautilusIconContainer::highlight_alpha=160
 
 	#This sets the color used for the text under the icons in nautilus when they are not highlighted.
-	NautilusIconContainer::dark_info_color="#1D4393"
+	NautilusIconContainer::dark_info_color="#931515"
 
 	#This is the color of the text under an icon in Nautilus when it is highlighted.
 	NautilusIconContainer::light_info_color="#ffffff"
 
 	# What are these?
-	GnomeHRef::link_color  ="#bab6c2"
-	GtkIMHtmlr::hyperlink-color ="#bab6c2"
+	GnomeHRef::link_color  ="#c29797"
+	GtkIMHtmlr::hyperlink-color ="#c29797"
 
 ################################################################################
 # HANDELS (These are transparent in this theme == not visible)
@@ -376,7 +376,7 @@ style "button" = "default"
 class "GtkButton" style "button"
 
 ################################################################################
-# RADIOBUTTONS AND CHECKBUTTONS HIGHLIGHT (what is this?)
+# RADIOBUTTONS AND CHECKBUTTONS HIGHLIGHT (what is this? OwO)
 ################################################################################
 
 style "checkradiobutton"

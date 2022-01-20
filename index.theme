@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=OS X Leopard Dark
-Comment=A macOS dark theme based on OS X Leopard
+Name=OS X Leopard Dark Red
+Comment=A red macOS dark theme based on OS X Leopard
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=OS X Leopard Dark
-MetacityTheme=OS X Leopard Dark
+GtkTheme=OS X Leopard Dark Red
+MetacityTheme=OS X Leopard Dark Red
 IconTheme=Mac-OS-X-Lion
 CursorTheme=DMZ-Black
 ButtonLayout=close,minimize,maximize:
