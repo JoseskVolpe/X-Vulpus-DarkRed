@@ -1061,7 +1061,7 @@ progressbar {
     border-radius: 0;
     box-shadow: 0 -1px #21478f;
     background-color: #1b4a7f;
-    background-image: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.05), transparent), linear-gradient(to top, #302eb9, #2020b0 40%, #1313a8 60%, #0046fa 80%);
+    background-image: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.09), transparent), linear-gradient(to top, #6664b7, #2e2eaf 40%, #2020a8 60%, #6e94f7 80%);
     background-size: 16px 16px, auto; }
     progressbar progress:backdrop {
       background-color: #595959; }
@@ -1081,7 +1081,7 @@ progressbar {
   progressbar.vertical progress {
     box-shadow: -1px 0 #21478f;
     border-left-color: #21478f;
-    background-image: linear-gradient(to top, transparent, rgba(0, 0, 0, 0.05), transparent), linear-gradient(to left, #302eb9, #2020b0 40%, #1313a8 60%, #0046fa 80%); }
+    background-image: linear-gradient(to top, transparent, rgba(0, 0, 0, 0.09), transparent), linear-gradient(to left, #6664b7, #2e2eaf 40%, #2020a8 60%, #6e94f7 80%); }
     progressbar.vertical progress:backdrop {
       background-color: #595959; }
   progressbar.vertical trough {
@@ -1282,7 +1282,7 @@ scrollbar {
       border-color: transparent;
       border-radius: 16px;
       background-color: #444444;
-      background-image: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.05), transparent), linear-gradient(to bottom, #0c6bff 15%, #1313a8 45%, #006cfa 75%);
+      background-image: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.09), transparent), linear-gradient(to bottom, #1c75ff 15%, #1b1ba7 45%, #1477fa 75%);
       background-size: 16px 16px, auto;
       box-shadow: inset 1px 0 2px 0 rgba(0, 0, 0, 0.34), inset -1px 0 2px 0 rgba(0, 0, 0, 0.34); }
       scrollbar.horizontal slider:backdrop {
@@ -1314,7 +1314,7 @@ scrollbar {
       border-color: transparent;
       border-radius: 16px;
       background-color: #444444;
-      background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.05), transparent), linear-gradient(to right, #0c6bff 15%, #1313a8 45%, #006cfa 75%);
+      background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.09), transparent), linear-gradient(to right, #1c75ff 15%, #1b1ba7 45%, #1477fa 75%);
       background-size: 16px 16px, auto;
       box-shadow: inset 1px 0 2px 0 rgba(0, 0, 0, 0.34), inset -1px 0 2px 0 rgba(0, 0, 0, 0.34); }
       scrollbar.vertical slider:backdrop {
@@ -1602,7 +1602,7 @@ headerbar {
   min-height: 30px;
   color: #ffffff;
   background-color: #191919;
-  background-image: linear-gradient(to bottom, #4a484b, #191919);
+  background-image: linear-gradient(to bottom, #4a484b, #1f1f1f);
   border-bottom: 1px solid #060606; }
   headerbar:backdrop {
     color: #8C8C8C;
