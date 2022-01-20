@@ -6,7 +6,7 @@ OS X Leopard dark mode red theme based on Aqua elements that were abandoned in l
 
 **Please note :** This modification was made on and targeted to KDE Plasma, other desktop environments might work aswell, but there are some stuff remaining yet:
 
-* Gnome-shell is partially broken (Issues for known bugs)
+* Gnome-shell is partially broken (For known bugs: https://github.com/JoseskVolpe/OS-X-Leopard-Dark/issues)
 
 * Unity not currently modified
 
