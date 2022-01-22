@@ -2,17 +2,22 @@
 
 # OS X 10.5 'Leopard' Dark Red
 
-OS X Leopard dark mode red theme based on Aqua elements that were abandoned in later OS X releases.
+Dark mode red theme
+A foxy red dark theme with glassy and OSX-style effects i've made for my use ;3
+
+Feel free to use it too and improve it if you like it ^w^
 
 **Please note :** This modification was made on and targeted to KDE Plasma, other desktop environments might work aswell, but there are some stuff remaining yet:
 
-* Gnome-shell is partially broken (For known bugs: https://github.com/JoseskVolpe/OS-X-Leopard-Dark/issues)
+* Cinnamon has bug https://github.com/linuxmint/cinnamon/issues/10621#issue-1111692173
+
+* Gnome-shell is partially broken
 
 * Unity not currently modified
 
 If you find something weird or broken, please file a issue or make a pull request.
 
-![os-x-leopard](./preview.png)
+![os-x-leopard](./preview.png) ![preview](./cinnamon/thumbnail.png) ![preview2](./preview2.png)
 
 **Maintainer :** [Josesk Volpe](https://github.com/JoseskVolpe)
 

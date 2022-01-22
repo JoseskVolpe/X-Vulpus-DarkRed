@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    width="20"
    height="20"
    viewBox="0 0 20 20"
    sodipodi:docname="close-hover.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    inkscape:export-filename="/home/elbullazul/Github/Mac-OS-X-Cheetah/metacity-1/apercu.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -149,7 +149,7 @@
        x2="14.2"
        y2="10"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="rotate(90,10,10)" />
+       gradientTransform="rotate(90,9.258711,10.742916)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -160,21 +160,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-width="1366"
+     inkscape:window-height="738"
      id="namedview4"
      showgrid="false"
      inkscape:measure-start="-12.1719,15.5234"
      inkscape:measure-end="-1.21094,15.5234"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="32"
-     inkscape:cx="8.3841822"
-     inkscape:cy="12.13304"
+     inkscape:zoom="16"
+     inkscape:cx="11.03125"
+     inkscape:cy="5.6875"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="0">
     <sodipodi:guide
        position="10,22.308935"
        orientation="1,0"
@@ -234,9 +235,9 @@
      id="path4-7"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:1;fill:url(#linearGradient925);fill-opacity:1;stroke:none;stroke-width:0.89208716;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 14.2,7.2858317 -2.715794,2.7157963 2.711108,2.711108 -1.477519,1.477519 -2.711108,-2.71111 L 7.285832,14.2 5.8,12.714168 8.520854,9.9933145 5.810941,7.2834004 7.28846,5.8058814 9.998373,8.515795 12.714168,5.8 Z"
+     style="opacity:1;fill:url(#linearGradient925);fill-opacity:1;stroke:none;stroke-width:0.892087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 12.771608,10.006067 C 12.777245,11.572242 11.52021,12.721091 10,12.702042 8.3060034,12.72704 7.2286968,11.620095 7.2032833,10 7.2119067,7.9522694 8.378051,7.189144 10,7.1965835 c 1.615227,0.0052 2.76585,1.2098394 2.771608,2.8094835 z"
      id="rect904"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccc" />
+     sodipodi:nodetypes="scccs" />
 </svg>

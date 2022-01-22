@@ -152,21 +152,18 @@
 </draw_ops>
 
 <draw_ops name="titlebar_focused">
-	<gradient type="vertical" x="0" y="0" width="width" height="height">
-    <color value="#4a484b"/>
-    <color value="#1f1f1f"/>
-  </gradient>
+    <rectangle color="#871d1d" x="0" y="0" width="width" height="height/2" filled="true"/>
+    <rectangle color="#721515" x="0" y="height/2" width="width" height="height/2" filled="true"/>
 </draw_ops>
 
 <draw_ops name="titlebar_unfocused">
-	<rectangle color="C_wm_bg_unfocused" x="0" y="0" width="width" height="height" filled="true" />
+	<rectangle color="#585858" x="0" y="0" width="width" height="height/2" filled="true"/>
+    <rectangle color="#454545" x="0" y="height/2" width="width" height="height/2" filled="true"/>
 </draw_ops>
 
 <draw_ops name="titlebar_max">
-	<gradient type="vertical" x="0" y="0" width="width" height="height">
-    <color value="#4a484b"/>
-    <color value="#1f1f1f"/>
-  </gradient>
+	<rectangle color="#871d1d" x="0" y="0" width="width" height="height/2" filled="true"/>
+    <rectangle color="#721515" x="0" y="height/2" width="width" height="height/2" filled="true"/>
 </draw_ops>
 
 <draw_ops name="titlebar_max_unfocused">

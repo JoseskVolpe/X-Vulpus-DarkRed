@@ -651,7 +651,7 @@ StScrollBar {
 
 #panelActivities.panel-button {
 	background-size: 20px 20px;
-	background-image: url("assets/view-grid-symbolic.svg");
+	background-image: url("assets/view-grid-symbolic.png");
 }
 
 #panel #panelActivities.panel-button:active > *,
@@ -659,7 +659,7 @@ StScrollBar {
 #panel #panelActivities.panel-button:focus > *,
 #panel #panelActivities.panel-button:checked > * {
 	background-size: 20px 20px;
-	background-image: url("assets/view-grid-symbolic-active.svg");
+	background-image: url("assets/view-grid-symbolic-active.png");
 }
 
 .system-status-icon {

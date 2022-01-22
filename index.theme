@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=OS X Leopard Dark Red
-Comment=A red macOS dark theme based on OS X Leopard
+Name=X Vulpus Dark Red
+Comment=A foxy red dark theme with glass and OSX-style effects
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=OS X Leopard Dark Red
-MetacityTheme=OS X Leopard Dark Red
-IconTheme=Mac-OS-X-Lion
+GtkTheme=X Vulpus Dark Red
+MetacityTheme=X Vulpus Dark Red
+IconTheme=Obsidian-Red
 CursorTheme=DMZ-Black
 ButtonLayout=close,minimize,maximize:
