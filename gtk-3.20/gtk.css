@@ -27,7 +27,7 @@
     color: #8C8C8C;
     background-color: linear-gradient(to bottom, rgba(33, 33, 33, 1), rgba(26, 26, 26, 1)); }
 
-
+.nemo-desktop-window { background-image: none; } /* Do not overlay desktop's background on Cinnamon. It removes applications background gradient effect aswell though, so that's a temporary solution */
 
 *:disabled {
   -gtk-icon-effect: dim; }
