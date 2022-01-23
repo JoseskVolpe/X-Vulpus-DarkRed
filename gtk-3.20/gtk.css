@@ -221,8 +221,7 @@ button {
     button.flat:active, button.flat:checked {
       color: #FFFFFF;
       border-color: #6b6b6b;
-      background-color: background-image: linear-gradient(to bottom, #390000, #810000 10%, #5d0000 70%, #970000 97%);
-      background-image: none;
+      background-image: linear-gradient(to bottom, #390000, #810000 10%, #5d0000 70%, #970000 97%);
       box-shadow: inset 0 2px 3px 1px rgba(0, 0, 0, 0.45), inset 0 1px #535353; }
       button.flat:active:backdrop, button.flat:checked:backdrop {
         color: #8C8C8C;
