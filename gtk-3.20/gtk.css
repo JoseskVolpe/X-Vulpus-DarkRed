@@ -2110,7 +2110,6 @@ treeview {
     border-style: solid;
     border-width: 0 1px 1px 0;
     background-color: #212121;
-    background-image: linear-gradient(to bottom, argb(100,100,100,0.5) 50%, argb(100, 100, 100, 0.4) 100%);
 }
     treeview header button:last-child {
       border-width: 0 0 1px 0; }
