@@ -23,7 +23,6 @@
 .background {
   color: #ffffff;
    background-image: linear-gradient(to bottom, rgba(19, 19, 19, 1), rgba(9, 9, 9, 1)); }
-   }
   .background:backdrop {
     color: #8C8C8C;
     background-color: linear-gradient(to bottom, rgba(33, 33, 33, 1), rgba(26, 26, 26, 1)); }
