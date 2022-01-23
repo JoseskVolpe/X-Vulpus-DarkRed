@@ -10,7 +10,7 @@ Feel free to use it too and improve it if you like it ^w^
 
 **Please note :** This modification was made on and targeted to KDE Plasma, other desktop environments might work aswell, but there are some stuff remaining yet:
 
-* Cinnamon has bug https://github.com/linuxmint/cinnamon/issues/10621 (Fixed with temporary commit e9c9072c5b0cd9896bb4b1b5738e5b78720a2c4c)
+* Cinnamon has bug https://github.com/linuxmint/cinnamon/issues/10621 (Fixed with temporary commit [e9c9072c5b0cd9896bb4b1b5738e5b78720a2c4c](https://github.com/JoseskVolpe/X-Vulpus-DarkRed/commit/e9c9072c5b0cd9896bb4b1b5738e5b78720a2c4c))
 
 * Gnome-shell is partially broken
 
