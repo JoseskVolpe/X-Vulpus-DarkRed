@@ -980,7 +980,7 @@ paned .sidebar.left, paned .sidebar.right, paned .sidebar.left:dir(rtl), paned .
   border-style: none; }
 
 overshoot.top {
-  background-image: -gtk-gradient(radial, center top, 0.55, center top, 0.6, from(rgba(174, 0, 3, 0.2)), to(transparent));
+  background-image: -gtk-gradient(radial, center top, 0.05, center top, 0.6, from(rgba(255, 0, 3, 0.7)), to(transparent));
   background-size: 100% 60%;
   background-repeat: no-repeat;
   background-position: center top;
@@ -988,7 +988,7 @@ overshoot.top {
   border: none;
   box-shadow: none; }
 overshoot.bottom {
-  background-image: -gtk-gradient(radial, center bottom, 0.55, center bottom, 0.6, from(rgba(174, 0, 3, 0.2)), to(transparent));
+  background-image: -gtk-gradient(radial, center bottom, 0.05, center bottom, 0.6, from(rgba(255, 0, 3, 0.7)), to(transparent));
   background-size: 100% 60%;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -996,7 +996,7 @@ overshoot.bottom {
   border: none;
   box-shadow: none; }
 overshoot.left {
-  background-image: -gtk-gradient(radial, left center, 0.55, left center, 0.6, from(rgba(174, 0, 3, 0.2)), to(transparent));
+  background-image: -gtk-gradient(radial, left center, 0.05, left center, 0.6, from(rgba(255, 0, 3, 0.7)), to(transparent));
   background-size: 60% 100%;
   background-repeat: no-repeat;
   background-position: left center;
@@ -1004,7 +1004,7 @@ overshoot.left {
   border: none;
   box-shadow: none; }
 overshoot.right {
-  background-image: -gtk-gradient(radial, right center, 0.55, right center, 0.6, from(rgba(174, 0, 3, 0.2)), to(transparent));
+  background-image: -gtk-gradient(radial, right center, 0.05, right center, 0.6, from(rgba(255, 0, 3, 0.7)), to(transparent));
   background-size: 60% 100%;
   background-repeat: no-repeat;
   background-position: right center;
