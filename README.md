@@ -34,3 +34,8 @@ Extract the zip file to the themes directory i.e. `/home/USERNAME/.themes`
 
 - GTK+ 3.20 or above
 - Murrine and Pixmap theme engines
+
+
+### Credits
+
+- Fox icon from: https://vectorified.com/download-image#fox-icon-29.png
